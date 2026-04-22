@@ -47,12 +47,34 @@
 
 ## 👥 Моя роль
 
-- тестирование логики приложения  
+- тестирование логики банковского приложения  
 - анализ поведения методов  
-- поиск и оформление дефектов  
-- исправление багов в коде  
-- работа с ветками, commit, push, pull request и merge  
+- поиск и оформление дефектов (Issues)  
+- исправление багов через Pull Requests  
+- участие в code review  
+- работа с Git (branch, commit, merge)
 
+## 🐞 Работа с дефектами
+
+В рамках проекта:
+
+- находила и оформляла баги через Issues  
+- исправляла дефекты в коде  
+- закрывала баг-репорты  
+- участвовала в code review  
+
+📄 Примеры баг-репортов:  
+👉 https://github.com/stasya-03/banking-app-test-automation/issues?q=is%3Aissue%20state%3Aclosed  
+
+📄 Примеры pull requests:  
+👉 https://github.com/stasya-03/banking-app-test-automation/pulls?q=is%3Apr+is%3Aclosed  
+---
+
+## 📊 Результаты
+
+- найдено и оформлено несколько дефектов  
+- исправлены баги через pull requests  
+- выполнена командная работа через GitHub workflow
 ---
 
 ## 📁 Структура проекта
