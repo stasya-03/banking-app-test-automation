@@ -68,6 +68,7 @@
 
 📄 Примеры pull requests:  
 👉 https://github.com/stasya-03/banking-app-test-automation/pulls?q=is%3Apr+is%3Aclosed  
+
 ---
 
 ## 📊 Результаты
